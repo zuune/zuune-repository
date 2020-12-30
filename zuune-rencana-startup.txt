@@ -1,5 +1,7 @@
 Rencana-Startup-Zuune
 
 - Javascript
+  * ES6
+  * Framework Javascript
 - PHP Framework
 - Komunitas

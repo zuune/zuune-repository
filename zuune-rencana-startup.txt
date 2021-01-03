@@ -3,8 +3,9 @@ Rencana-Startup-Zuune
 - Javascript
   * ES6
   * Framework Javascript
-    ^ Angular
+    ^ Vue
     ^ React
 - PHP Framework
   ^ Laravel
 - Komunitas
+- Python
